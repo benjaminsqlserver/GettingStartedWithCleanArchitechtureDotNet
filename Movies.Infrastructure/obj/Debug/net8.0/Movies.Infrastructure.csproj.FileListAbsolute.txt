@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.deps.json
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.pdb
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Application.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Core.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Application.pdb
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Core.pdb
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.I.73F6CEB0.Up2Date
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\refint\Movies.Infrastructure.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.pdb
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\ref\Movies.Infrastructure.dll

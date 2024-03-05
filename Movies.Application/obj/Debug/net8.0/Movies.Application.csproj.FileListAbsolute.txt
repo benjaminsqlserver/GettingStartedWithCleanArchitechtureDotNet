@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Movies\Movies.Application\bin\Debug\net8.0\Movies.Application.deps.json
+C:\Users\user\source\repos\Movies\Movies.Application\bin\Debug\net8.0\Movies.Application.dll
+C:\Users\user\source\repos\Movies\Movies.Application\bin\Debug\net8.0\Movies.Application.pdb
+C:\Users\user\source\repos\Movies\Movies.Application\bin\Debug\net8.0\Movies.Core.dll
+C:\Users\user\source\repos\Movies\Movies.Application\bin\Debug\net8.0\Movies.Core.pdb
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.A.4F942C5D.Up2Date
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.dll
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\refint\Movies.Application.dll
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\Movies.Application.pdb
+C:\Users\user\source\repos\Movies\Movies.Application\obj\Debug\net8.0\ref\Movies.Application.dll

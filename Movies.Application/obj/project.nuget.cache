@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "RomskiZtR87t+GhCJvXp8vNEx8Jm9VC3yRy7wIJhpz6ICIi9qJmRUDZk7r/Qw5U9QmCZuHjOUJZJtt7jzuhZ+w==",
+  "dgSpecHash": "pULEi0/gxXVEXQzG/LylLp9beyalxHFUcOsypdaUvG0RjgCp9PItH4GYJ0+WFriZ/5IzvJN2+VRL+GQm5K4sjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies\\Movies.Application\\Movies.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

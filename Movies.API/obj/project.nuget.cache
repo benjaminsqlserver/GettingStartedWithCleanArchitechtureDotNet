@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ANidoKdkTRxQ+QP/1+tgFlqWLTOZCtpxA+HeMsZYz0+L6OXdEG0tbHpDINKpaFwLWpBmHgQGWSbL1imxJ5fvlg==",
+  "dgSpecHash": "SfbGZFY51GNW4J0rcb6GwLB8pXAoGsDBF87TcXwxOBkZq7pRHRqCTnwhZhKagG5gzeqF051HULsxKJFiP7o6qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies\\Movies.API\\Movies.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.4\\microsoft.data.sqlclient.5.1.4.nupkg.sha512",

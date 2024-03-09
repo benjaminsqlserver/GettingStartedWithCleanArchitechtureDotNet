@@ -15,3 +15,6 @@ C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.
 C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\refint\Movies.Infrastructure.dll
 C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.pdb
 C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\ref\Movies.Infrastructure.dll
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.runtimeconfig.json
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.sourcelink.json
+C:\Users\user\source\repos\Movies\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.genruntimeconfig.cache

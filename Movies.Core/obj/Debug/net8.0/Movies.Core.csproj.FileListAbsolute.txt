@@ -9,3 +9,4 @@ C:\Users\user\source\repos\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.dll
 C:\Users\user\source\repos\Movies\Movies.Core\obj\Debug\net8.0\refint\Movies.Core.dll
 C:\Users\user\source\repos\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.pdb
 C:\Users\user\source\repos\Movies\Movies.Core\obj\Debug\net8.0\ref\Movies.Core.dll
+C:\Users\user\source\repos\Movies\Movies.Core\obj\Debug\net8.0\Movies.Core.sourcelink.json

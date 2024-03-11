@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SfbGZFY51GNW4J0rcb6GwLB8pXAoGsDBF87TcXwxOBkZq7pRHRqCTnwhZhKagG5gzeqF051HULsxKJFiP7o6qg==",
+  "dgSpecHash": "cf48V394VVflaihlJlT77bJklUGt9bPCVcJxiM6Y8mQ5zFwAsiEimo3+GsTDhRF53+/ROj5M5KDF2YWiYqV5TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies\\Movies.API\\Movies.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\asp.versioning.abstractions\\8.0.0\\asp.versioning.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\asp.versioning.http\\8.0.0\\asp.versioning.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\asp.versioning.mvc\\8.0.0\\asp.versioning.mvc.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

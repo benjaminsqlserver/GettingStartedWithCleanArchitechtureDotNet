@@ -6,7 +6,8 @@ using Movies.Core.Repositories.Base;
 using Movies.Infrastructure.Data;
 using Movies.Infrastructure.Repositories;
 using Movies.Infrastructure.Repositories.Base;
-
+using MediatR;
+using System.Reflection;
 
 namespace Movies.API
 {
@@ -23,14 +24,14 @@ namespace Movies.API
         {
             services.AddControllers();
             services.AddApiVersioning();
-            services.AddDbContext<MovieContext>(m => m.UseSqlServer(Configuration.GetConnectionString("MoviesConnection")),ServiceLifetime.Singleton);
+            services.AddDbContext<MovieContext>(m => m.UseSqlServer(Configuration.GetConnectionString("MovieConnection")),ServiceLifetime.Singleton);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc(name: "v1", new OpenApiInfo { Title = "Movie API Review",Version="v1" });
             }
             );
             services.AddAutoMapper(typeof(Startup));
-            services.AddMediatR(c => c.RegisterServicesFromAssemblyContaining<Program>());
+            services.AddMediatR(typeof(CreateMovieCommandHandler).GetTypeInfo().Assembly);
             services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
             services.AddTransient<IMovieRepository, MovieRepository>();
 
